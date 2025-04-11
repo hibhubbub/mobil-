@@ -150,7 +150,7 @@
         <p>Lewat dekade, VW tumbuh jadi imperium otomotif. Dari Golf GTI yang revolusioner, Kombi yang jadi rumah para petualang, hingga ID. Buzz — VW terus berevolusi dari analog ke digital, dari bensin ke listrik. Dan tidak hanya bertahan, tapi memimpin perubahan.</p>
         <p>Dengan mengakuisisi merek seperti Audi, Porsche, Lamborghini, dan Bugatti, VW membangun kerajaan multigenerasi. Mereka menjual impian, kenyamanan, dan keandalan — dalam paket sederhana namun kuat. VW tidak pernah menjanjikan kemewahan, tapi justru karena itu, mereka menjadi legenda yang merakyat.</p>
       </div>
-      <img src="https://images.unsplash.com/photo-1624971046316-d8b05e6baf60?auto=format&fit=crop&w=800&q=80" alt="Volkswagen Golf">
+      <img src="https://imgcdnblog.carbay.com/wp-content/uploads/2024/07/17163103/VW-ID-BUZZ-GIIAS-2024-1-500x333.jpg" alt="Volkswagen ID. Buzz di GIIAS 2024">
     </div>
   </section>
 
