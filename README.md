@@ -154,9 +154,7 @@
     </div>
   </section>
 
-  <footer>
-    <p>&copy; 2025 Website Mobil Jerman. Dibuat dengan ❤️ sejauh dari Indonesia ke Neptunus.</p>
-  </footer>
+ 
 
  
 
