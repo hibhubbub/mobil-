@@ -158,11 +158,7 @@
     <p>&copy; 2025 Website Mobil Jerman. Dibuat dengan ❤️ sejauh dari Indonesia ke Neptunus.</p>
   </footer>
 
-  <!-- AOS Script -->
-  <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
-  <script>
-    AOS.init();
-  </script>
+ 
 
 </body>
 </html>
