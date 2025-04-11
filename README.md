@@ -28,7 +28,7 @@
         <p>Mercedes bukan sekadar merek. Ini adalah legenda. Ketika Gottlieb Daimler dan Wilhelm Maybach memperkenalkan mesin pembakaran internal, mereka tidak hanya menciptakan mobil — mereka menantang batas imajinasi manusia. Perusahaan yang awalnya terpisah, Benz & Cie dan Daimler-Motoren-Gesellschaft, akhirnya bersatu pada 1926 membentuk Mercedes-Benz — simbiosis antara impian dan rekayasa presisi.</p>
         <p>Dari medan perang hingga runway Paris, dari peluncuran S-Class pertama hingga sistem semi-otonom Drive Pilot, Mercedes selalu satu langkah di depan. Dengan AMG sebagai kekuatan performanya dan EQ sebagai masa depannya, Mercedes tidak sekadar mengikuti zaman — mereka menciptakannya.</p>
       </div>
-      <img src="https://www.motortrend.com/files/6717c8c975b1c50008f06da0/002-2025-mercedes-amg-gt63-pro-4matic-plus.jpg?w=768&width=768&q=75&format=webp" alt= "Mercedes AMG GT 63 PRO 4MATIC 2025"
+      <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnED18_SiEoaS-Svd4TjXrUbXeVYOp_sPQMA&s" alt= "Mercedes AMG GT 63 PRO 4MATIC 2025"
     </div>
   </section>
 
