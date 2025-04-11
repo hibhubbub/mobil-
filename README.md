@@ -111,7 +111,7 @@
         <p>Mercedes bukan sekadar merek. Ini adalah legenda. Ketika Gottlieb Daimler dan Wilhelm Maybach memperkenalkan mesin pembakaran internal, mereka tidak hanya menciptakan mobil — mereka menantang batas imajinasi manusia. Perusahaan yang awalnya terpisah, Benz & Cie dan Daimler-Motoren-Gesellschaft, akhirnya bersatu pada 1926 membentuk Mercedes-Benz — simbiosis antara impian dan rekayasa presisi.</p>
         <p>Dari medan perang hingga runway Paris, dari peluncuran S-Class pertama hingga sistem semi-otonom Drive Pilot, Mercedes selalu satu langkah di depan. Dengan AMG sebagai kekuatan performanya dan EQ sebagai masa depannya, Mercedes tidak sekadar mengikuti zaman — mereka menciptakannya.</p>
       </div>
-      <img src="https://images.unsplash.com/photo-1617531653332-88a56563a7e2?auto=format&fit=crop&w=800&q=80" alt="Mercedes-Benz S-Class">
+      <img src="https://www.motortrend.com/files/6717c8c975b1c50008f06da0/002-2025-mercedes-amg-gt63-pro-4matic-plus.jpg?w=768&width=768&q=75&format=webp" alt= "Mercedes-AMG GT 63 PRO 4MATIC+ 2025"
     </div>
   </section>
 
@@ -137,7 +137,7 @@
         <p>Dari Auto Union yang menyatukan empat merek menjadi satu, hingga dominasi di reli dunia lewat Quattro yang legendaris, Audi membuktikan bahwa teknologi bukan hanya alat — tapi seni. Mobil-mobilnya bukan hanya cepat, tetapi cerdas. Tidak hanya kuat, tapi juga elegan. Dan saat dunia mulai bicara tentang mobil listrik, Audi sudah meluncur dengan lini e-tron dan mobil konsep futuristik yang mengaburkan batas antara mobil dan komputer.</p>
         <p>Desain tajam, lampu LED interaktif, sistem otonom, hingga teknologi virtual cockpit — Audi adalah jembatan antara hari ini dan masa depan. Setiap mobilnya seperti kapal luar angkasa dengan roda — dan peta tujuannya adalah era berikutnya.</p>
       </div>
-      <img src="https://images.unsplash.com/photo-1605193977842-08dc10f7b7ff?auto=format&fit=crop&w=800&q=80" alt="Audi A8">
+      <img src="https://hips.hearstapps.com/hmg-prod/images/2023-audi-r8-gt-front-three-quarters-motion-3-1664827965.jpg?crop=0.684xw:0.577xh;0.0321xw,0.281xh&resize=2048:*" alt="AUDI R8 GT 2023"
     </div>
   </section>
 
