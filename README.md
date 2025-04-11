@@ -124,7 +124,7 @@
         <p>Di tahun 1930-an, BMW mencetak sejarah dengan mobil sport legendaris 328. Setelah perang, BMW sempat berada di ambang kehancuran. Namun dengan keberanian dan visi, mereka bangkit. Seri 3, 5, dan 7 bukan hanya lini produk — mereka adalah mahakarya modern yang mengubah cara dunia memandang mobil premium.</p>
         <p>Saat dunia berbicara efisiensi, BMW memperkenalkan teknologi EfficientDynamics. Saat dunia mencari masa depan, BMW memperkenalkan i3 dan i8, mobil listrik yang tampak seperti datang dari dekade berikutnya. M dengan adrenalin, i dengan inovasi. Itulah BMW.</p>
       </div>
-      <img src="https://images.unsplash.com/photo-1617532958945-1ae56c162cfc?auto=format&fit=crop&w=800&q=80" alt="BMW M3">
+      <img src="https://moladin.com/blog/wp-content/uploads/2022/06/BMW-M3.jpg" alt="BMW M3">
     </div>
   </section>
 
